@@ -28,6 +28,3 @@ High Score Outfit: Use top 0, bottom 6, hair 1, and shoes 1 for a high score out
 
 ### Support:
 Please contact the developer at mwu082008@gmail.com for support or feature requests.
-
-### Sources:
-link to reference tracker: https://docs.google.com/document/d/1q2Br0n1pdWS8s9mNWi4-UMjOXNLbLUfAP17yabg_Ixk/edit?usp=sharing 
